@@ -20,5 +20,6 @@
 ## Network
 
 - [브라우저의 동작 원리](https://hoonjoo-park.github.io/cs/browser/howBrowserWorks/)
+- [DNS란 무엇인가?](https://hoonjoo-park.github.io/cs/network/DNS/)
 
 ---
