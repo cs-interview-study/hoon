@@ -8,6 +8,8 @@
 
 - [this란 무엇인가?](https://hoonjoo-park.github.io/javascript/base/this/)
 - [자바스크립트에서의 비동기 처리](https://hoonjoo-park.github.io/javascript/base/asyncawait/)
+- [프로토타입](https://hoonjoo-park.github.io/javascript/base/prototype/)
+- [함수가 객체인 이유](https://hoonjoo-park.github.io/javascript/base/whyFunctionsAreObj/)
 
 ---
 
