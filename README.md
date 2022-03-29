@@ -2,8 +2,6 @@
 
 > 각 질문들을 클릭하면, 해당 내용이 정리된 필자의 블로그 포스팅을 확인하실 수 있습니다.
 
----
-
 ## Javascript
 
 - [this란 무엇인가?](https://hoonjoo-park.github.io/javascript/base/this/)
@@ -11,17 +9,13 @@
 - [프로토타입](https://hoonjoo-park.github.io/javascript/base/prototype/)
 - [함수가 객체인 이유](https://hoonjoo-park.github.io/javascript/base/whyFunctionsAreObj/)
 
----
 
 ## React
 
 - [Virtual DOM이란?](https://hoonjoo-park.github.io/react/virtualDOM/)
 
----
 
 ## Network
 
 - [브라우저의 동작 원리](https://hoonjoo-park.github.io/cs/browser/howBrowserWorks/)
 - [DNS란 무엇인가?](https://hoonjoo-park.github.io/cs/network/DNS/)
-
----
