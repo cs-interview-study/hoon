@@ -8,12 +8,11 @@
 - [자바스크립트에서의 비동기 처리](https://hoonjoo-park.github.io/javascript/base/asyncawait/)
 - [프로토타입](https://hoonjoo-park.github.io/javascript/base/prototype/)
 - [함수가 객체인 이유](https://hoonjoo-park.github.io/javascript/base/whyFunctionsAreObj/)
-
+- [스코프(Scope)](https://hoonjoo-park.github.io/javascript/base/scope/)
 
 ## React
 
 - [Virtual DOM이란?](https://hoonjoo-park.github.io/react/virtualDOM/)
-
 
 ## Network
 
